@@ -31,4 +31,4 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Screenshot_of_SWI_prolog_icon.png" alt="latex" width="25" height="25" />
 </p>
 
-**Contact info:** [ugliara.fellipe@gmail.com](mailto:ugliara.fellipe@gmail.com) **.:** [website](https://ugliara-fellipe.github.io) **.:** [linkedin](https://www.linkedin.com/in/fellipe-augusto-ugliara-8b97611a3)
+**Contact info .:** [ugliara.fellipe@gmail.com](mailto:ugliara.fellipe@gmail.com) **.:** [website](https://ugliara-fellipe.github.io) **.:** [linkedin](https://www.linkedin.com/in/fellipe-augusto-ugliara-8b97611a3)
