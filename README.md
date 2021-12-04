@@ -1,7 +1,10 @@
 ### Hi there, I'm Fellipe Ugliara
 
-I am a computer scientist and writer. I enjoy learning and designing programming languages and programming paradigms. I occasionally publish posts about philosophy, mathematics, and logic.
+💻 &nbsp;&nbsp;**.:**&nbsp;&nbsp; I am a computer scientist and writer
 
+📚 &nbsp;&nbsp;**.:**&nbsp;&nbsp; I enjoy learning and designing programming languages
+
+🛰️ &nbsp;&nbsp;**.:**&nbsp;&nbsp; I occasionally publish posts about mathematics and logic
 
 ### Tools, languages, and other things that I like to work with
 
