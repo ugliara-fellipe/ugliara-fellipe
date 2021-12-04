@@ -1,12 +1,11 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugliara-fellipe&langs_count=7&exclude_repo=master-s-degree" />
-
-## Hi there, I'm Fellipe Ugliara
+### Hi there, I'm Fellipe Ugliara
 
 I am a computer scientist and writer. I enjoy learning and designing programming languages and programming paradigms. I occasionally publish posts about philosophy, mathematics, and logic.
 
-#### Tools, languages, and other things that I like to work with
 
-<p align="left">
+### Tools, languages, and other things that I like to work with
+
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
@@ -29,4 +28,4 @@ I am a computer scientist and writer. I enjoy learning and designing programming
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Screenshot_of_SWI_prolog_icon.png" alt="latex" width="25" height="25" />
 </p>
 
-**Contact info**: [ugliara.fellipe@gmail.com](mailto:ugliara.fellipe@gmail.com) **.:** [website](https://ugliara-fellipe.github.io) **.:** [linkedin](https://www.linkedin.com/in/fellipe-augusto-ugliara-8b97611a3)
+**Contact info:** [ugliara.fellipe@gmail.com](mailto:ugliara.fellipe@gmail.com) **.:** [website](https://ugliara-fellipe.github.io) **.:** [linkedin](https://www.linkedin.com/in/fellipe-augusto-ugliara-8b97611a3)
