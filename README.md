@@ -1,10 +1,12 @@
 ### Hi there, I'm Fellipe Ugliara
 
-💻 &nbsp;&nbsp;**.:**&nbsp;&nbsp; I am a computer scientist and writer
+💾 &nbsp;&nbsp;**.:**&nbsp;&nbsp; I am a computer scientist and writer
 
 📚 &nbsp;&nbsp;**.:**&nbsp;&nbsp; I enjoy learning and designing programming languages
 
-🛰️ &nbsp;&nbsp;**.:**&nbsp;&nbsp; I occasionally publish posts about mathematics and logic
+✏️ &nbsp;&nbsp;**.:**&nbsp;&nbsp; I occasionally publish posts about mathematics and logic
+
+🦜 &nbsp;&nbsp;**.:**&nbsp;&nbsp; [Treasure Island](https://en.wikipedia.org/wiki/Treasure_Island) is my favorite adventure novel
 
 ### Tools, languages, and other things that I like to work with
 
