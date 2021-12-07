@@ -1,6 +1,6 @@
 ### Hi there, I'm Fellipe Ugliara
 
-💾 &nbsp;&nbsp;**.:**&nbsp;&nbsp; I am a computer scientist by profession and a philosopher by passion
+💾 &nbsp;&nbsp;**.:**&nbsp;&nbsp; I'm a computer scientist and a free content believer
 
 📚 &nbsp;&nbsp;**.:**&nbsp;&nbsp; I enjoy learning and designing programming languages
 
