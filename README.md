@@ -28,7 +28,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/EmacsIcon.svg" alt="emacs" width="25" height="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Texstudio_Logo.png" alt="emacs" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="25" height="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="25" height="25" />
