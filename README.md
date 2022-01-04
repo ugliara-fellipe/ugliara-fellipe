@@ -32,6 +32,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="25" height="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="25" height="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg" alt="latex" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" alt="qt" width="25" height="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Screenshot_of_SWI_prolog_icon.png" alt="latex" width="25" height="25" />
 </p>
 
