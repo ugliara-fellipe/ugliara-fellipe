@@ -4,11 +4,9 @@
 
 💾 &nbsp;&nbsp;**.:**&nbsp;&nbsp; I am a computer scientist and a [Free Content](https://en.wikipedia.org/wiki/Free_content) believer
 
-📚 &nbsp;&nbsp;**.:**&nbsp;&nbsp; I enjoy learning and designing programming languages
+📚 &nbsp;&nbsp;**.:**&nbsp;&nbsp; I enjoy programming languages, mathematics and logic
 
 🦜 &nbsp;&nbsp;**.:**&nbsp;&nbsp; [Treasure Island](https://en.wikipedia.org/wiki/Treasure_Island) is my favorite adventure novel
-
-✏️ &nbsp;&nbsp;**.:**&nbsp;&nbsp; I occasionally publish posts about mathematics and logic
 
 ### Tools, languages, and other things that I like to work with
 
@@ -19,7 +17,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="graphql" width="25" height="25" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" alt="gatsby" width="25" height="25" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Project_Gutenberg_logo.svg" alt="gatsby" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gcc/gcc-original.svg" alt="gcc" width="25" height="25" />
@@ -35,6 +33,5 @@
 </p>
 
 **Contact info .:** 
-[website](https://ugliara-fellipe.github.io) **.:** 
 [linkedin](https://www.linkedin.com/in/fellipe-augusto-ugliara-8b97611a3) **.:** 
 [ugliara.fellipe@gmail.com](mailto:ugliara.fellipe@gmail.com)
