@@ -27,6 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" alt="haskell" width="25" height="25" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="25" height="25" />
+  <img src="https://yt3.googleusercontent.com/ytc/AGIKgqMwDAUI-3y50gMIcXM0MxpAqgwS8ic-i_jRz1_j=s900-c-k-c0x00ffffff-no-rj" alt="latex" width="25" height="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="latex" width="25" height="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg" alt="latex" width="25" height="25" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Screenshot_of_SWI_prolog_icon.png" alt="latex" width="25" height="25" />
