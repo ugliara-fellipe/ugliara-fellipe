@@ -4,9 +4,9 @@
 
 💾 &nbsp;&nbsp;**.:**&nbsp;&nbsp; I am a computer scientist and a [Free Content](https://en.wikipedia.org/wiki/Free_content) believer
 
-📚 &nbsp;&nbsp;**.:**&nbsp;&nbsp; I enjoy programming languages, mathematics and logic
+📝 &nbsp;&nbsp;**.:**&nbsp;&nbsp; I enjoy programming languages, mathematics and logic
 
-🦜 &nbsp;&nbsp;**.:**&nbsp;&nbsp; [Treasure Island](https://en.wikipedia.org/wiki/Treasure_Island) is my favorite adventure novel
+👻 &nbsp;&nbsp;**.:**&nbsp;&nbsp; [Pen-and-Paper RPGs](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) are my favorite games
 
 ### Tools, languages, and other things that I like to work with
 
