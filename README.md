@@ -8,6 +8,6 @@
 
 🎲 &nbsp;&nbsp;**.:**&nbsp;&nbsp; [Pen-and-Paper RPGs](https://en.wikipedia.org/wiki/Tabletop_role-playing_game) are my favorite games
 
-**Contact info .:** 
+**Contact .:** 
 [linkedin](https://www.linkedin.com/in/fellipe-augusto-ugliara-8b97611a3) **.:** 
 [ugliara.fellipe@gmail.com](mailto:ugliara.fellipe@gmail.com)
